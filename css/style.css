@@ -1423,7 +1423,7 @@ margin-right: 10px;
   content: "";
   width: 530px;
   height: 1000px;
-  background: #3561e4b3;
+  /* background: #3561e4b3; */
   position: absolute;
   transform: rotate(16deg);
   left: 14%;

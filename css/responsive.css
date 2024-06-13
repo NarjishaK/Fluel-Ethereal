@@ -1,6 +1,7 @@
 
 /* Normal desktop :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
+
     .right-menu .icon {
   margin-right: 10px;
 }
@@ -23,6 +24,9 @@ background-position: 0 -100px;
 }
     .s-about-img img{
         margin: 0;
+        height: 600px;
+        width: 636px;
+        
     }
     .copyright-wrap li {
   margin-left: 20px;
@@ -711,6 +715,7 @@ margin-right: 8px;
     }
     .s-about-img {
     margin-left: 0;
+    
 }
     .services-area2::after,.testimonial-area::after,.contact-area::after {
     width: 100%;
@@ -933,7 +938,7 @@ border: 1px solid #000;
 }
 
 .s-about-img img {
-	width: 100%;
+	/* width: 100%; */
     margin: 0;
 }
 
